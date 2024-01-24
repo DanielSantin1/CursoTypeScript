@@ -13,3 +13,4 @@ function soma(c){
 console.log('Soma é: '+c)
 }
 soma(c)
+let test;
