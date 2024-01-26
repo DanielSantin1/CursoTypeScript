@@ -49,3 +49,18 @@ let inf = "Teste"
 // ann = 1
 // inf = 1
 
+console.log("Testando")
+
+//comandos para inicializar o tsc automaticamnete após o salvamento
+// -- tsc --init
+// tsc -w
+
+// desafio dos Fundamentos
+
+const numero: number = 10
+
+const numberString = numero.toString()
+
+const NumberPrint: string = `eu vou imprimir o numero ${numberString}`
+
+console.log(NumberPrint)
